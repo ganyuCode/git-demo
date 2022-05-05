@@ -1,4 +1,4 @@
-hello ganyu!
+hello ganyu! master test
 hello ganyu!
 hello ganyu!
 hello ganyu!
