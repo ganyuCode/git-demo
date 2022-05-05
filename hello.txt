@@ -7,7 +7,7 @@ hello ganyu!
 hello ganyu!
 hello ganyu!
 hello ganyu!
-hello ganyu!
+hello ganyu! 55
 hello ganyu! 44
 hello ganyu! 33
 hello ganyu! 22
